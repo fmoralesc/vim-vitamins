@@ -1,0 +1,5 @@
+# vitamins colorscheme
+
+I've setup this repo just for convenience. 
+
+The original author is http://hcalves.deviantart.com/
